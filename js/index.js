@@ -35,7 +35,7 @@ var app = {
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
 
-        var ref = window.open('http://pixelmarketing.biz/gitatestApp/', '_blank', 'location=no', 'toolbar=no', 'suppressesIncrementalRendering=yes');
+        var ref = window.open('http://gitaandroid.in/', '_blank', 'location=no', 'toolbar=no', 'suppressesIncrementalRendering=yes');
 		
 		
 		inAppBrowser.addEventListener('loadstart', function()
